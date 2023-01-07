@@ -1,10 +1,9 @@
 # Fundamentals of Data Analysis Assessment
+**Author :** Ka Lam (Kitty) Kwan
 
-## Introduction
+## About this repository
 The repository contains the assignment for the Fundamentals of Data Analysis module as part of the hdip in Computer Science in Data Analytics from Atlantic Technological University. 
-
-## Contents
-The contents of this repository there are;
+It contains the following,
 
 ### Practicals folder
 
@@ -21,3 +20,20 @@ This folder in which have jupyter notebooks for the weekly tasks given by lectur
 
 A jupyter notebook explain what the normal distribution is and investigating it's main concepts using visualisation and plots.
 
+
+## Requirements/How to use:
+In order to run this on your PC, you require the following:
+
+Install Anaconda https://www.anaconda.com/products/individual this ditribution includes Python and serveral packages used in this Assignment including the numpy package.
+
+Install Jupyter: https://jupyter.org/ to run numpy-random.ipynb 
+
+To download this repository
+
+1. https://github.com/kalamkitty/ProgDA_project
+2. Click on "Code" and select "Download ZIP"
+
+
+
+## Reference
+https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/
